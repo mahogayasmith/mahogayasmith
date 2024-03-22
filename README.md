@@ -10,7 +10,9 @@
 
 - 🔭 I’m currently working on **Online Platforms**
 
-- 🌱 I’m currently learning **Java, Python, Html, SQL**
+- 🌱 I’m currently learning **Java, Python, Html, SQL, Ruby**
+- 🌱 I’m currently learning for Become Certified Ethical Hacker
+
 
 - 📫 How to reach me **mahogayasmith4mail@gmail.com**
 
