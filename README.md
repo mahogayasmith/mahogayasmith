@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **mahogayasmith4mail@gmail.com**
 
-- My WEB **(https://mahogayasmith.000webhostapp.com/)**
+- My WEB **(https://mahogayasmith.github.io/mahoga_newsite/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
